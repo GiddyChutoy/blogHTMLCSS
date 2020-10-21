@@ -1,0 +1,44 @@
+body{
+    font-family: serif;
+}
+
+header{
+    text-align: center;
+}
+
+h1, h2, h3{
+    font-family: sans-serif;
+    padding: 5px;
+}
+
+#container{
+    margin: auto;
+    width: 40%;
+}
+
+article{
+    margin: 10px;
+    padding: 5px;
+    background-color:white;
+}
+
+article, p{
+    margin-bottom: 10px;
+}
+
+.post-head{
+    margin-bottom: 10px;
+    padding: 10px;
+    border-bottom: 1px solid black;
+}
+
+footer{
+    text-align: center;
+}
+body{
+    background-color: #ddd;
+}
+
+small{
+    color: rgb(64, 252, 195);
+}
